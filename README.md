@@ -98,5 +98,4 @@ For Admin:
 
 
 21. For all users, they must click on the "Options" button on their dashboards and then select "Logout" to log out.
-
-
+![image](https://user-images.githubusercontent.com/55791523/117341787-710ff580-ae9a-11eb-8f82-b562b2e7496f.png)
